@@ -4,3 +4,6 @@ streamlit run smart_regression_app.py
 
 
 streamlit run smart_regression_app_v3_charts_time_saved.py
+
+
+python -m streamlit run smart_regression_aldi_dx_v4.py
