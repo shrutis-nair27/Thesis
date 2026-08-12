@@ -1,3 +1,6 @@
 pip install streamlit pandas openpyxl xlsxwriter
 
 streamlit run smart_regression_app.py
+
+
+streamlit run smart_regression_app_v3_charts_time_saved.py
