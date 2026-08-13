@@ -19,3 +19,6 @@ python -m streamlit run smart_regression_aldi_dx_v11_black_orange.py
 
 
 python -m streamlit run smart_regression_aldi_dx_v12_blue_upload_multicolor_charts.py
+
+
+python -m streamlit run smart_regression_aldi_dx_v13_summary_dashboard.py
